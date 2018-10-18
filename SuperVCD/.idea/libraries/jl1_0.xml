@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="jl1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jl1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mp3spi1.9.4.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/miglayout-core-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/miglayout-swing-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

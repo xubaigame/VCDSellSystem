@@ -1,0 +1,193 @@
+JFDML JFormDesigner: "6.0.2.0.116" Java: "1.8.0_181" encoding: "UTF-8"
+
+new FormModel {
+	contentType: "form/swing"
+	root: new FormRoot {
+		add( new FormWindow( "javax.swing.JFrame", new FormLayoutManager( class com.jformdesigner.runtime.NullLayout ) {
+			"autoSize": false
+		} ) {
+			name: "this"
+			add( new FormComponent( "javax.swing.JLabel" ) {
+				name: "VCDIcon"
+			}, new FormLayoutConstraints( class com.jformdesigner.runtime.NullConstraints ) {
+				"x": 505
+				"y": 45
+				"width": 150
+				"height": 150
+			} )
+			add( new FormComponent( "javax.swing.JLabel" ) {
+				name: "VCDNameLabel"
+				"text": "专辑名称："
+				"font": &Font0 new java.awt.Font( "Futura", 0, 18 )
+				"horizontalAlignment": 4
+			}, new FormLayoutConstraints( class com.jformdesigner.runtime.NullConstraints ) {
+				"x": 25
+				"y": 40
+				"width": 95
+				"height": 35
+			} )
+			add( new FormComponent( "javax.swing.JLabel" ) {
+				name: "VCDSingerNameLabel"
+				"text": "歌手名称："
+				"font": #Font0
+				"horizontalAlignment": 4
+			}, new FormLayoutConstraints( class com.jformdesigner.runtime.NullConstraints ) {
+				"width": 95
+				"height": 35
+				"x": 25
+				"y": 80
+			} )
+			add( new FormComponent( "javax.swing.JLabel" ) {
+				name: "VCDPriceLabel"
+				"text": "专辑单价："
+				"font": #Font0
+				"horizontalAlignment": 4
+			}, new FormLayoutConstraints( class com.jformdesigner.runtime.NullConstraints ) {
+				"width": 95
+				"height": 35
+				"x": 25
+				"y": 125
+			} )
+			add( new FormComponent( "javax.swing.JLabel" ) {
+				name: "VCDTotalTimeLabel"
+				"text": "总时长："
+				"font": #Font0
+				"horizontalAlignment": 4
+			}, new FormLayoutConstraints( class com.jformdesigner.runtime.NullConstraints ) {
+				"width": 95
+				"height": 35
+				"x": 25
+				"y": 165
+			} )
+			add( new FormComponent( "javax.swing.JLabel" ) {
+				name: "VCDNameText"
+				"text": "专辑名称："
+				"font": #Font0
+				"horizontalAlignment": 2
+			}, new FormLayoutConstraints( class com.jformdesigner.runtime.NullConstraints ) {
+				"width": 95
+				"height": 35
+				"x": 130
+				"y": 40
+			} )
+			add( new FormComponent( "javax.swing.JLabel" ) {
+				name: "VCDSingerNameText"
+				"text": "歌手名称："
+				"font": #Font0
+				"horizontalAlignment": 2
+			}, new FormLayoutConstraints( class com.jformdesigner.runtime.NullConstraints ) {
+				"width": 95
+				"height": 35
+				"x": 130
+				"y": 80
+			} )
+			add( new FormComponent( "javax.swing.JLabel" ) {
+				name: "VCDPriceText"
+				"text": "专辑单价："
+				"font": #Font0
+				"horizontalAlignment": 2
+			}, new FormLayoutConstraints( class com.jformdesigner.runtime.NullConstraints ) {
+				"width": 95
+				"height": 35
+				"x": 130
+				"y": 125
+			} )
+			add( new FormComponent( "javax.swing.JLabel" ) {
+				name: "VCDTotalTimeText"
+				"text": "总时长："
+				"font": #Font0
+				"horizontalAlignment": 2
+			}, new FormLayoutConstraints( class com.jformdesigner.runtime.NullConstraints ) {
+				"width": 95
+				"height": 35
+				"x": 130
+				"y": 165
+			} )
+			add( new FormComponent( "javax.swing.JButton" ) {
+				name: "BuyButton"
+				"text": "购买"
+				"font": new java.awt.Font( "方正舒体", 0, 28 )
+				addEvent( new FormEvent( "java.awt.event.MouseListener", "mouseClicked", "BuyButtonMouseClicked", true ) )
+			}, new FormLayoutConstraints( class com.jformdesigner.runtime.NullConstraints ) {
+				"x": 505
+				"y": 200
+				"height": 40
+				"width": 150
+			} )
+			add( new FormComponent( "javax.swing.JLabel" ) {
+				name: "VCDSingerDisLabel"
+				"text": "歌手简介："
+				"font": #Font0
+				"horizontalAlignment": 4
+			}, new FormLayoutConstraints( class com.jformdesigner.runtime.NullConstraints ) {
+				"width": 95
+				"height": 35
+				"x": 25
+				"y": 255
+			} )
+			add( new FormContainer( "javax.swing.JScrollPane", new FormLayoutManager( class javax.swing.JScrollPane ) ) {
+				name: "VCDSingerDisPane"
+				add( new FormComponent( "javax.swing.JTextArea" ) {
+					name: "VCDSingerDisTextArea"
+					"lineWrap": true
+					"editable": false
+					"font": new java.awt.Font( "方正舒体", 0, 18 )
+				} )
+			}, new FormLayoutConstraints( class com.jformdesigner.runtime.NullConstraints ) {
+				"x": 30
+				"y": 290
+				"height": 85
+				"width": 720
+			} )
+			add( new FormComponent( "javax.swing.JLabel" ) {
+				name: "VCDSingerDisLabel2"
+				"text": "专辑简介："
+				"font": #Font0
+				"horizontalAlignment": 4
+			}, new FormLayoutConstraints( class com.jformdesigner.runtime.NullConstraints ) {
+				"width": 95
+				"height": 35
+				"x": 25
+				"y": 395
+			} )
+			add( new FormContainer( "javax.swing.JScrollPane", new FormLayoutManager( class javax.swing.JScrollPane ) ) {
+				name: "VCDDisPane"
+				add( new FormComponent( "javax.swing.JTextArea" ) {
+					name: "VCDDIsTextArea"
+					"lineWrap": true
+					"editable": false
+					"font": new java.awt.Font( "方正舒体", 0, 18 )
+				} )
+			}, new FormLayoutConstraints( class com.jformdesigner.runtime.NullConstraints ) {
+				"x": 30
+				"y": 435
+				"height": 85
+				"width": 720
+			} )
+			add( new FormContainer( "javax.swing.JScrollPane", new FormLayoutManager( class javax.swing.JScrollPane ) ) {
+				name: "MusicListScrollPane"
+				add( new FormContainer( "javax.swing.JPanel", new FormLayoutManager( class com.jformdesigner.runtime.NullLayout ) {
+					"autoSize": false
+				} ) {
+					name: "MusicListPane"
+				} )
+			}, new FormLayoutConstraints( class com.jformdesigner.runtime.NullConstraints ) {
+				"x": 0
+				"y": 570
+				"width": 750
+				"height": 255
+			} )
+			add( new FormComponent( "javax.swing.JLabel" ) {
+				name: "BG"
+			}, new FormLayoutConstraints( class com.jformdesigner.runtime.NullConstraints ) {
+				"x": 0
+				"y": 0
+				"width": 750
+				"height": 825
+			} )
+		}, new FormLayoutConstraints( null ) {
+			"location": new java.awt.Point( 0, 0 )
+			"size": new java.awt.Dimension( 750, 850 )
+		} )
+	}
+}
