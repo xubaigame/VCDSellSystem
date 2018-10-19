@@ -58,9 +58,11 @@
 
 2.数据库使用MySQL,版本为5.7，数据库文件为MySQLWorkbench导出，直接回复即可。
 
-3.客户端与服务端采用Socket进行通信。
+3.jdk版本为1.8_181，版本问题可以更改配置文件解决(IDEA 有上角运行框拉下来点击配置文件即可设置jdk路径)。
 
-4.通信框架基本如下：
+4.客户端与服务端采用Socket进行通信。
+
+5.通信框架基本如下：
 ![avatar](https://raw.githubusercontent.com/vi-li/MarkdownPictureRepository/master/SuperVCD网络通信架构.jpg)
 
 <h2 id="4">部署步骤</h2>
