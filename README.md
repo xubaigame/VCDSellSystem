@@ -1,10 +1,10 @@
-#SuperVCDSellSystem
+# SuperVCDSellSystem
 
-###作者：vili &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 联系方式1976763043@qq.com
+### 作者：vili &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 联系方式1976763043@qq.com
 
 *该程序是一个vcd贩卖系统，主要包括客户端和服务端。1.客户端主要功能：用户注册和登录、专辑根据分类与关键字查询、专辑详细信息查询、专辑内音乐试听（播放与停止）、订单生成、订单查询、收货地址查询、增加收货地址、设置默认收货地址等 2.服务端主要功能：对客户端消息进行处理与转发，与数据库进行交互并将处理结果返回至客户端*
 
-##目录
+## 目录
 
 * [1.客户端](#1)
 * [2.服务端](#2)
@@ -36,6 +36,7 @@
 ![avatar](https://raw.githubusercontent.com/vi-li/MarkdownPictureRepository/master/专辑详细信息界面.png)
 
 创建订单界面：
+
 ![avatar](https://raw.githubusercontent.com/vi-li/MarkdownPictureRepository/master/创建订单界面.png)
 
 订单查询界面：
