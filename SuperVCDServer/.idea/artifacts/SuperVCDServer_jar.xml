@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" build-on-make="true" name="SuperVCDServer:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/SuperVCDServer_jar</output-path>
-    <root id="archive" name="SuperVCDServer.jar">
-      <element id="module-output" name="SuperVCDServer" />
-    </root>
-  </artifact>
-</component>
