@@ -67,7 +67,7 @@
 
 ## 三、网络通信框架
 
-![avatar](https://raw.githubusercontent.com/vi-li/MarkdownPictureRepository/master/SuperVCD网络通信架构.jpg)
+![avatar](http://image.vilicode.com/blog/20191009/SDdAKmWGhj5O.jpg)
 
 ## 四、项目信息
 
