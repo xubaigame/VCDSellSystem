@@ -1,10 +1,8 @@
 # VCD售卖系统
 
-**作者：vili &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 联系方式1976763043@qq.com**
+**作者：积极向上小木木 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 联系方式：PositiveMumu@126.com**
 
-该程序是一个vcd售卖系统，主要包括客户端（SuperVCD）和服务端（SuperVCDServer）。
-
-[TOC]
+*VCD售卖系统，主要包括客户端（SuperVCD）和服务端（SuperVCDServer）。*
 
 ## 一、SuperVCD
 
