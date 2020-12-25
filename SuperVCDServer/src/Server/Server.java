@@ -16,7 +16,7 @@ public class Server {
     public Server() {
         try {
 			//修改自己的端口
-            serverSocket = new ServerSocket(0);
+            serverSocket = new ServerSocket(5588);
             controllerManager=new ControllerManager(this);
             while (true) {
                 //一旦有堵塞，表示服务器与客户端获得了连接

@@ -6,11 +6,11 @@ import java.util.List;
 public class MysqlHelper {
     private static final String Driver="com.mysql.jdbc.Driver";
 	//修改自己的链接字符串
-    private static final String ConnUrl="jdbc:mysql://xxx.xxx.xxx.xxx:3306/xxx?useUnicode=true&characterEncoding=UTF-8";
+    private static final String ConnUrl="jdbc:mysql://49.232.15.95:3306/SuperVCD?useUnicode=true&characterEncoding=UTF-8";
 	//修改自己的数据库用户名
-    private static final String User="xxx";
+    private static final String User="root";
 	//修改自己的数据库密码
-    private static final String Password="xxx";
+    private static final String Password="weizhilin815";
     private Connection conn;//数据库的链接对象
 
     public Connection openConnection()

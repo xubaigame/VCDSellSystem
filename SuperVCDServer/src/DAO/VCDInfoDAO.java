@@ -85,7 +85,7 @@ public class VCDInfoDAO {
     }
     public List<VCDSong> GetVcdSongList(int VCDID)
     {
-        String sql="select * from VCDSong where VCDID=?";
+        String sql="select * from vcdsong where VCDID=?";
         List<Object> ps=new ArrayList<>();
         ps.add(VCDID);
         ResultSet rs=mysqlHelper.executeQuery(sql,ps);

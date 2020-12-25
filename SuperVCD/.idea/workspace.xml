@@ -1,8 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3055b176-7401-435e-9183-dbd00ebcba64" name="Default" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
+    <list default="true" id="3055b176-7401-435e-9183-dbd00ebcba64" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperVCDServer/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CloudMusic/好妹妹乐队 - 一封家书.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CloudMusic/段奥娟 - 陪我长大 (伴奏).mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CloudMusic/段奥娟 - 陪我长大.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CloudMusic/火箭少女101 - 卡路里 (伴奏).mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CloudMusic/火箭少女101 - 卡路里.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CloudMusic/王贰浪,豆心 - 盗将行（Cover：花粥）.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CloudMusic/花粥 - 二十岁的某一天.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CloudMusic/花粥 - 小相思（demo）.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CloudMusic/花粥 - 我说我当不了县长.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CloudMusic/蒋明,冬子,刘东明 - 啊朋友 再见.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperVCD.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/cbdc0270-4c45-45aa-90cb-88af1d1472a3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/cbdc0270-4c45-45aa-90cb-88af1d1472a3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SuperVCD.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SuperVCD.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SuperVCD/Frame/MusicPanel$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SuperVCD/Frame/MusicPanel$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SuperVCD/Frame/MusicPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SuperVCD/Frame/MusicPanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SuperVCD/Frame/SellWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SuperVCD/Frame/SellWindow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SuperVCD/Frame/SellWindow.jfd" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SuperVCD/Frame/SellWindow.jfd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SuperVCD/Net/Client$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SuperVCD/Net/Client$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Frame/MusicPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Frame/MusicPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Frame/SellWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Frame/SellWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Frame/SellWindow.jfd" beforeDir="false" afterPath="$PROJECT_DIR$/src/Frame/SellWindow.jfd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Net/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Net/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperVCDServer/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SuperVCDServer/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperVCDServer/.idea/dataSources/5bbb9104-c8fc-49f7-8254-864c57f99894.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SuperVCDServer/.idea/dataSources/5bbb9104-c8fc-49f7-8254-864c57f99894.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperVCDServer/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SuperVCDServer/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperVCDServer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SuperVCDServer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperVCDServer/out/artifacts/SuperVCDServer_jar/SuperVCDServer.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../SuperVCDServer/out/artifacts/SuperVCDServer_jar/SuperVCDServer.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperVCDServer/out/production/SuperVCDServer/DAO/VCDInfoDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SuperVCDServer/out/production/SuperVCDServer/DAO/VCDInfoDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperVCDServer/out/production/SuperVCDServer/Server/Server.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SuperVCDServer/out/production/SuperVCDServer/Server/Server.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperVCDServer/out/production/SuperVCDServer/Tool/MysqlHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SuperVCDServer/out/production/SuperVCDServer/Tool/MysqlHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperVCDServer/src/DAO/VCDInfoDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SuperVCDServer/src/DAO/VCDInfoDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperVCDServer/src/Server/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SuperVCDServer/src/Server/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperVCDServer/src/Tool/MysqlHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SuperVCDServer/src/Tool/MysqlHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperVCDServer/src/config/jdbc.properties" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,82 +96,6 @@
     </expand>
     <select />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Frame/Login.jfd">
-          <provider selected="true" editor-type-id="JFormDesigner">
-            <state propertiesWidth="226" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Frame/OrderWindow.jfd">
-          <provider selected="true" editor-type-id="JFormDesigner" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Net/Client.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="25" column="33" lean-forward="true" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Frame/Register.jfd">
-          <provider selected="true" editor-type-id="JFormDesigner" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Frame/SellWindow.jfd">
-          <provider selected="true" editor-type-id="JFormDesigner" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Frame/SellWindow.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="530">
-              <caret line="254" column="47" lean-forward="true" selection-start-line="254" selection-start-column="47" selection-end-line="254" selection-end-column="47" />
-              <folding>
-                <marker date="1570338688989" expanded="false" signature="1877:8601" ph="// JFormDesigner - Component initialization - DO NOT MODIFY" />
-                <marker date="1570338688989" expanded="false" signature="10764:11415" ph="// JFormDesigner - Variables declaration - DO NOT MODIFY" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Frame/AddressWindow.jfd">
-          <provider selected="true" editor-type-id="JFormDesigner" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Frame/BuyWindow.jfd">
-          <provider selected="true" editor-type-id="JFormDesigner">
-            <state paletteWidth="150" propertiesWidth="312" structureHeight="312" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Frame/DisWindow.jfd">
-          <provider selected="true" editor-type-id="JFormDesigner">
-            <state paletteWidth="150" propertiesWidth="312" structureHeight="312" />
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -139,135 +103,40 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>system</find>
-      <find>System</find>
-      <find>sys</find>
-      <find>SetToolTipsText</find>
-    </findStrings>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/Request/BaseRequest.java" />
-        <option value="$PROJECT_DIR$/src/Tool/CreateVCDInfoList.java" />
-        <option value="$PROJECT_DIR$/src/Request/RequestManager.java" />
-        <option value="$PROJECT_DIR$/src/Net/Message.java" />
-        <option value="$PROJECT_DIR$/src/Request/GetUserRequest.java" />
-        <option value="$PROJECT_DIR$/src/Frame/Register.jfd" />
-        <option value="$PROJECT_DIR$/src/Model/User.java" />
-        <option value="$PROJECT_DIR$/src/Request/RegisterRequest.java" />
-        <option value="$PROJECT_DIR$/src/Model/ModelManager.java" />
-        <option value="$PROJECT_DIR$/src/Frame/UserWindow.jfd" />
-        <option value="$PROJECT_DIR$/src/Request/UpdateUserInfo.java" />
-        <option value="$PROJECT_DIR$/src/Model/AddressInfo.java" />
-        <option value="$PROJECT_DIR$/src/Frame/UserWindow.java" />
-        <option value="$PROJECT_DIR$/src/Request/GetAddressListRequest.java" />
-        <option value="$PROJECT_DIR$/src/Frame/Register.java" />
-        <option value="$PROJECT_DIR$/src/Frame/AddressWindow.jfd" />
-        <option value="$PROJECT_DIR$/src/Frame/AddAddressWindow.jfd" />
-        <option value="$PROJECT_DIR$/src/Request/AddAddressRequest.java" />
-        <option value="$PROJECT_DIR$/src/Model/VCDInfo.java" />
-        <option value="$PROJECT_DIR$/src/Model/VCDSong.java" />
-        <option value="$PROJECT_DIR$/src/Frame/MusicButton.java" />
-        <option value="$PROJECT_DIR$/src/Request/GetVCDDisRequest.java" />
-        <option value="$PROJECT_DIR$/src/Connection/RequestCode.java" />
-        <option value="$PROJECT_DIR$/src/Frame/DisWindow.jfd" />
-        <option value="$PROJECT_DIR$/src/Request/LoginRequest.java" />
-        <option value="$PROJECT_DIR$/src/Request/GetOrderDis.java" />
-        <option value="$PROJECT_DIR$/src/Frame/BuyWindow.jfd" />
-        <option value="$PROJECT_DIR$/src/Request/CreateOrderRequest.java" />
-        <option value="$PROJECT_DIR$/src/Model/Order.java" />
-        <option value="$PROJECT_DIR$/src/Frame/MusicPanel.java" />
-        <option value="$PROJECT_DIR$/src/Connection/ActionCode.java" />
-        <option value="$PROJECT_DIR$/src/Request/GetOrderDisRequest.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
-        <option value="$PROJECT_DIR$/src/Frame/OrderWindow.jfd" />
-        <option value="$PROJECT_DIR$/src/Frame/OrderPanel.java" />
-        <option value="$PROJECT_DIR$/src/Frame/AddressWindow.java" />
-        <option value="$PROJECT_DIR$/src/Tool/CreateList.java" />
-        <option value="$PROJECT_DIR$/src/Frame/Login.jfd" />
-        <option value="$PROJECT_DIR$/src/Frame/SellWindow.jfd" />
-        <option value="$PROJECT_DIR$/src/Request/VCDInfoListRequest.java" />
-        <option value="$PROJECT_DIR$/src/Frame/DisWindow.java" />
-        <option value="$PROJECT_DIR$/src/Request/SetDefaultAddressRequest.java" />
-        <option value="$PROJECT_DIR$/src/Frame/AddAddressWindow.java" />
-        <option value="$PROJECT_DIR$/src/Request/GetOrderListRequest.java" />
-        <option value="$PROJECT_DIR$/src/Frame/OrderWindow.java" />
-        <option value="$PROJECT_DIR$/src/Frame/BuyWindow.java" />
-        <option value="$PROJECT_DIR$/src/Frame/Login.java" />
-        <option value="$PROJECT_DIR$/src/Frame/SellWindow.java" />
-        <option value="$PROJECT_DIR$/src/Net/Client.java" />
-      </list>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
     </option>
   </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand />
-      <select />
-    </treeState>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
-    <option name="width" value="1036" />
-    <option name="height" value="735" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="SuperVCD" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SuperVCD" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SuperVCD" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SuperVCD" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SuperVCD" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SuperVCD" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SuperVCD" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SuperVCD" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Net" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
-  </component>
+  <component name="ProjectId" id="1m9ZCgNpXg6lINOKkO7RZFJ8WOf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570341915711" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\Java\VCDSellSystem\SuperVCD\lib" />
-      <recent name="D:\Work\Java\SuperVCD\src\Image" />
-      <recent name="D:\Work\Java\SuperVCD\lib" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\Java\VCDSellSystem\SuperVCD\src\config" />
       <recent name="D:\Work\Java\SuperVCD\lib" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/out/production/SuperVCD" />
+      <recent name="$PROJECT_DIR$/out/production" />
+      <recent name="F:\Java\VCDSellSystem\SuperVCD\lib" />
+      <recent name="D:\Work\Java\SuperVCD\src\Image" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -293,7 +162,6 @@
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk1.8.0_221\jre" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="SuperVCD" />
       <method v="2">
@@ -400,442 +268,22 @@
       <workItem from="1539831469140" duration="2061000" />
       <workItem from="1570287407845" duration="1848000" />
       <workItem from="1570337443015" duration="2128000" />
+      <workItem from="1608907644845" duration="3600000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="126344000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Capture Tool" order="0" />
-      <window_info id="Designer" order="1" />
-      <window_info id="UI Designer" order="2" />
-      <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="4" visible="true" weight="0.2585288" />
-      <window_info id="Structure" order="5" weight="0.25" />
-      <window_info id="Image Layers" order="6" />
-      <window_info anchor="bottom" id="Messages" order="0" weight="0.33152762" />
-      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5021322" side_tool="true" weight="0.27056277" />
-      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="3" />
-      <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.4978678" weight="0.17768148" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.39935064" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="bottom" id="CheckStyle" order="11" />
-      <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
-      <window_info anchor="right" id="Maven Projects" order="0" />
-      <window_info anchor="right" id="Palette&#9;" order="1" />
-      <window_info anchor="right" id="Database" order="2" weight="0.08802083" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Palette" order="5" />
-      <window_info anchor="right" id="Coverage" order="6" side_tool="true" weight="0.2375" />
-      <window_info anchor="right" id="Api Debugger" order="7" />
-      <window_info anchor="right" id="Commander" order="8" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="9" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="10" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="11" weight="0.32995737" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Model/ModelManager.java" />
-    <entry file="file://$PROJECT_DIR$/src/Model/User.java" />
-    <entry file="file://$PROJECT_DIR$/src/Model/AddressInfo.java" />
-    <entry file="file://$PROJECT_DIR$/src/Model/VCDSong.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/javax/sound/sampled/AudioSystem.java" />
-    <entry file="jar://$PROJECT_DIR$/lib/tritonus_share.jar!/org/tritonus/share/sampled/file/TAudioFileReader.class" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/BufferedInputStream.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/jre/lib/rt.jar!/sun/audio/AudioStream.class" />
-    <entry file="file://$PROJECT_DIR$/src/Model/VCDInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" selection-start-line="6" selection-end-line="7" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Frame/UserWindow.jfd">
-      <provider selected="true" editor-type-id="JFormDesigner" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Connection/RequestCode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="38" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Request/CreateOrderRequest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Connection/ActionCode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="131" selection-start-line="3" selection-start-column="131" selection-end-line="3" selection-end-column="131" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Frame/UserWindow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="29" column="48" selection-start-line="29" selection-start-column="48" selection-end-line="29" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Frame/MusicPanel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1908">
-          <caret line="94" column="17" lean-forward="true" selection-start-line="94" selection-start-column="17" selection-end-line="94" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Model/Order.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Frame/OrderPanel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="461">
-          <caret line="30" column="49" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="49" />
-          <folding>
-            <element signature="imports" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Request/GetAddressListRequest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="30" column="47" selection-start-line="28" selection-start-column="7" selection-end-line="30" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Frame/Register.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="526">
-          <caret line="103" column="5" selection-start-line="100" selection-start-column="4" selection-end-line="103" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Request/GetVCDDisRequest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="11" column="41" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Frame/DisWindow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1215">
-          <caret line="58" column="34" selection-start-line="58" selection-start-column="34" selection-end-line="58" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Request/GetOrderListRequest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Frame/OrderWindow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="150" column="24" selection-start-line="150" selection-start-column="24" selection-end-line="150" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Frame/AddressWindow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="38" column="11" selection-start-line="34" selection-start-column="8" selection-end-line="38" selection-end-column="11" />
-          <folding>
-            <element signature="e#851#982#0" expanded="true" />
-            <element signature="e#981#982#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Request/VCDInfoListRequest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="28" column="33" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Request/UpdateUserInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Request/BaseRequest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="7" column="35" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Request/RequestManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="36" column="26" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Net/Message.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="29" column="56" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Request/GetOrderDisRequest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Frame/BuyWindow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1050">
-          <caret line="229" column="26" selection-start-line="229" selection-start-column="8" selection-end-line="229" selection-end-column="26" />
-          <folding>
-            <marker date="1570289220374" expanded="false" signature="903:8682" ph="// JFormDesigner - Component initialization - DO NOT MODIFY" />
-            <marker date="1570289220374" expanded="false" signature="10229:10975" ph="// JFormDesigner - Variables declaration - DO NOT MODIFY" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tool/CreateList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="44" selection-start-line="44" selection-end-line="44" />
-          <folding>
-            <element signature="method#CreateVCDInfoPanel#0;class#CreateList#0" />
-            <element signature="method#CreateAddressPanel#0;class#CreateList#0" />
-            <element signature="method#CreateAddressPanelList#0;class#CreateList#0" />
-            <element signature="method#CreateVCDSongListPanel#0;class#CreateList#0" />
-            <element signature="method#CreateOrderListPanel#0;class#CreateList#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Request/LoginRequest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="625">
-          <caret line="31" column="65" selection-start-line="31" selection-start-column="65" selection-end-line="31" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Request/RegisterRequest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SuperVCD.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Frame/Login.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="43" column="9" lean-forward="true" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
-          <folding>
-            <marker date="1570337604094" expanded="false" signature="1284:5014" ph="// JFormDesigner - Component initialization - DO NOT MODIFY" />
-            <marker date="1570337604094" expanded="false" signature="6053:6467" ph="// JFormDesigner - Variables declaration - DO NOT MODIFY" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Frame/AddAddressWindow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-382">
-          <caret line="20" column="47" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <marker date="1556719474000" expanded="false" signature="1705:4666" ph="// JFormDesigner - Component initialization - DO NOT MODIFY" />
-            <marker date="1556719474000" expanded="false" signature="5347:5722" ph="// JFormDesigner - Variables declaration - DO NOT MODIFY" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Request/AddAddressRequest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="32" column="9" lean-forward="true" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Request/SetDefaultAddressRequest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="26" column="69" selection-start-line="26" selection-start-column="69" selection-end-line="26" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Frame/AddAddressWindow.jfd">
-      <provider selected="true" editor-type-id="JFormDesigner" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Frame/AddressWindow.jfd">
-      <provider selected="true" editor-type-id="JFormDesigner" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Frame/BuyWindow.jfd">
-      <provider selected="true" editor-type-id="JFormDesigner">
-        <state paletteWidth="150" propertiesWidth="312" structureHeight="312" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Frame/DisWindow.jfd">
-      <provider selected="true" editor-type-id="JFormDesigner">
-        <state paletteWidth="150" propertiesWidth="312" structureHeight="312" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Frame/Login.jfd">
-      <provider selected="true" editor-type-id="JFormDesigner">
-        <state propertiesWidth="226" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Frame/OrderWindow.jfd">
-      <provider selected="true" editor-type-id="JFormDesigner" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Frame/Register.jfd">
-      <provider selected="true" editor-type-id="JFormDesigner" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Frame/SellWindow.jfd">
-      <provider selected="true" editor-type-id="JFormDesigner" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../SuperVCDServer/src/config/jdbc.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Frame/SellWindow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="530">
-          <caret line="254" column="47" lean-forward="true" selection-start-line="254" selection-start-column="47" selection-end-line="254" selection-end-column="47" />
-          <folding>
-            <marker date="1570338688989" expanded="false" signature="1877:8601" ph="// JFormDesigner - Component initialization - DO NOT MODIFY" />
-            <marker date="1570338688989" expanded="false" signature="10764:11415" ph="// JFormDesigner - Variables declaration - DO NOT MODIFY" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Net/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="25" column="33" lean-forward="true" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>SuperVCD</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>lib</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

@@ -22,36 +22,36 @@
 2. 主要界面截图如下：
 
 	1. 登录界面：
-   
-		![mark](http://image.vilicode.com/blog/20191006/3vo8WorA0Q1s.png?imageslim)
+	
+	![登录界面](README/登录界面.png)
 	
 	2. 注册界面：
 	
-		![mark](http://image.vilicode.com/blog/20191006/e1UlJG0cXGCT.png?imageslim)
+	![注册界面](README/注册界面.png)
 	
 	3. 主界面：
 	
-		![mark](http://image.vilicode.com/blog/20191006/YXD81QGy8o51.png?imageslim)
+	![主界面](README/主界面.png)
 	
 	4. 用户信息管理界面：
 	
-		![mark](http://image.vilicode.com/blog/20191006/eNc6bSErehxi.png?imageslim)
+	![用户信息管理界面](README/用户信息管理界面.png)
 	
 	5. 地址管理界面：
 	
-		![mark](http://image.vilicode.com/blog/20191006/oECOe1f9srNc.png?imageslim)
+	![地址管理界面](README/地址管理界面.png)
 	
 	6. 专辑详细信息界面：
 	
-		![mark](http://image.vilicode.com/blog/20191006/Ky47VDGDWDbN.png?imageslim)
+	![专辑详细信息界面](README/专辑详细信息界面.png)
 	
 	7. 创建订单界面：
 	
-		![mark](http://image.vilicode.com/blog/20191006/xNFtOtqm4561.png?imageslim)
+	![创建订单界面](README/创建订单界面.png)
 	
 	8. 订单查询界面：
 	
-		![mark](http://image.vilicode.com/blog/20191006/gXeDvyLuTYhY.png?imageslim)
+	![订单查询界面](README/订单查询界面.png)
 	
 ## 二、SuperVCDServer
 1. 服务端的功能：
@@ -61,11 +61,11 @@
    4. 返回处理的结果
    5. 操纵数据库
 2. 客户端与服务端采用Tcp/IP协议，Socket进行通信。
-3. .数据库使用MySQL。
+3. 数据库使用MySQL。
 
 ## 三、网络通信框架
 
-![avatar](http://image.vilicode.com/blog/20191009/SDdAKmWGhj5O.jpg)
+![网络通信框架](README/网络通信框架.jpg)
 
 ## 四、项目信息
 

@@ -219,7 +219,7 @@ public class SellWindow extends JFrame {
                 "\u6c11\u8c23"
             }));
             SelectPanel.add(SelectComboBox);
-            SelectComboBox.setBounds(110, 15, 85, 55);
+            SelectComboBox.setBounds(25, 15, 190, 55);
             SelectPanel.add(SelectBG);
             SelectBG.setBounds(0, 0, 820, 85);
         }

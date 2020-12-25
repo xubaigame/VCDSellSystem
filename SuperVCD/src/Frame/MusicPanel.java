@@ -73,7 +73,9 @@ public class MusicPanel extends JPanel {
     private void LoadMusic()
     {
         try {
-            BufferedInputStream buffer = new BufferedInputStream(new FileInputStream(vcdSong.VCDSongPath));
+            //BufferedInputStream buffer = new BufferedInputStream(new FileInputStream(vcdSong.VCDSongPath));
+            BufferedInputStream buffer = new BufferedInputStream(MusicPanel.class.getResource(vcdSong.VCDSongPath).openStream());
+
             player = new Player(buffer);
         } catch (Exception e) {
             System.out.println(e);
