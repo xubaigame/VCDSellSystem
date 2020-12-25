@@ -24,7 +24,7 @@ public class Client {
                 message=new Message();
                 try {
 					//修改服务器的ip与端口
-                    socket=new Socket("127.0.0.1",5588);
+                    socket=new Socket("xxx.xxx.xxx.xxx",0);
                     in=socket.getInputStream();
                     os=socket.getOutputStream();
                 } catch (IOException e) {

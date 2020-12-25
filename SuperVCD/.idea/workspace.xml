@@ -2,46 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3055b176-7401-435e-9183-dbd00ebcba64" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SuperVCDServer/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudMusic/好妹妹乐队 - 一封家书.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudMusic/段奥娟 - 陪我长大 (伴奏).mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudMusic/段奥娟 - 陪我长大.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudMusic/火箭少女101 - 卡路里 (伴奏).mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudMusic/火箭少女101 - 卡路里.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudMusic/王贰浪,豆心 - 盗将行（Cover：花粥）.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudMusic/花粥 - 二十岁的某一天.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudMusic/花粥 - 小相思（demo）.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudMusic/花粥 - 我说我当不了县长.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudMusic/蒋明,冬子,刘东明 - 啊朋友 再见.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SuperVCD.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/cbdc0270-4c45-45aa-90cb-88af1d1472a3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/cbdc0270-4c45-45aa-90cb-88af1d1472a3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuperVCD.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SuperVCD.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SuperVCD/Frame/MusicPanel$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SuperVCD/Frame/MusicPanel$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SuperVCD/Frame/MusicPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SuperVCD/Frame/MusicPanel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SuperVCD/Frame/SellWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SuperVCD/Frame/SellWindow.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SuperVCD/Frame/SellWindow.jfd" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SuperVCD/Frame/SellWindow.jfd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SuperVCD/Net/Client$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SuperVCD/Net/Client$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Frame/MusicPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Frame/MusicPanel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Frame/SellWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Frame/SellWindow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Frame/SellWindow.jfd" beforeDir="false" afterPath="$PROJECT_DIR$/src/Frame/SellWindow.jfd" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Net/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Net/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SuperVCDServer/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SuperVCDServer/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SuperVCDServer/.idea/dataSources/5bbb9104-c8fc-49f7-8254-864c57f99894.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SuperVCDServer/.idea/dataSources/5bbb9104-c8fc-49f7-8254-864c57f99894.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SuperVCDServer/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SuperVCDServer/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SuperVCDServer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SuperVCDServer/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SuperVCDServer/out/artifacts/SuperVCDServer_jar/SuperVCDServer.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../SuperVCDServer/out/artifacts/SuperVCDServer_jar/SuperVCDServer.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SuperVCDServer/out/production/SuperVCDServer/DAO/VCDInfoDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SuperVCDServer/out/production/SuperVCDServer/DAO/VCDInfoDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SuperVCDServer/out/production/SuperVCDServer/Server/Server.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SuperVCDServer/out/production/SuperVCDServer/Server/Server.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SuperVCDServer/out/production/SuperVCDServer/Tool/MysqlHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SuperVCDServer/out/production/SuperVCDServer/Tool/MysqlHelper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SuperVCDServer/src/DAO/VCDInfoDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SuperVCDServer/src/DAO/VCDInfoDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SuperVCDServer/src/Server/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SuperVCDServer/src/Server/Server.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SuperVCDServer/src/Tool/MysqlHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SuperVCDServer/src/Tool/MysqlHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SuperVCDServer/src/config/jdbc.properties" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -269,6 +231,7 @@
       <workItem from="1570287407845" duration="1848000" />
       <workItem from="1570337443015" duration="2128000" />
       <workItem from="1608907644845" duration="3600000" />
+      <workItem from="1608911382387" duration="690000" />
     </task>
     <servers />
   </component>
@@ -280,7 +243,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
